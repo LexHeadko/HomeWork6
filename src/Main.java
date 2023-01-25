@@ -23,6 +23,4 @@ public class Main {
             System.out.println(i);
         }
     }
-    public static void task3() {
-        System.out.println("Задача 3");
 }
